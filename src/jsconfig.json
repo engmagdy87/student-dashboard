@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@BusinessLayer/*": ["BusinessLayer/*"],
+      "@Components/*": ["Components/*"],
+      "@Constants/*": ["Constants/*"],
+      "@Containers/*": ["Containers/*"],
+      "@Helpers/*": ["Helpers/*"],
+      "@static/*": ["static/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
