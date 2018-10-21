@@ -1,0 +1,1 @@
+{"version":3,"sources":["d:/Zwaar/Projects/zwaar-task/src/Components/Avatar/d:/Zwaar/Projects/zwaar-task/src/Components/Avatar/index.css"],"names":[],"mappings":"AAAA,QACE,sBAAuB,AACvB,YAAa,AACb,aAAc,AACd,iBAAmB,CACpB","file":"4.0cb8cf63.chunk.css","sourcesContent":[".avatar {\n  vertical-align: middle;\n  width: 100px;\n  height: 100px;\n  border-radius: 50%;\n}\n"]}

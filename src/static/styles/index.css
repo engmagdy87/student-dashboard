@@ -8,9 +8,9 @@ body,
 #root {
   margin: 0 !important;
   padding: 0 !important;
+  height: 100vh;
   font-family: "Roboto", sans-serif;
   font-family: Helvetica, sans-serif;
-  background-color: #eeeeee;
 }
 
 ::-webkit-scrollbar {
@@ -23,6 +23,6 @@ body,
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #ff6f04;
+  background-color: #007bff;
   outline: 1px solid slategrey;
 }
